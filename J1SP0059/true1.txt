@@ -1,0 +1,6 @@
+Tai;Ha Noi;1000
+Hoang;Ha Noi;1200
+Quan;Ha Noi;2500
+Dat;Ha Noi;1300
+Quoc;Ha Noi;1900
+Lam;Ha Noi;1600
